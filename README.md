@@ -26,5 +26,5 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
 </div>
 
-<img src="https://example.com/your-snake-animation-url.svg" alt="Snake animation" />
+<img src="https://github.com/vishalalgud/vishalalgud/raw/output/snake.svg" alt="Snake animation" />
 
