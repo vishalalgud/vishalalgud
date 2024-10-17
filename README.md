@@ -5,7 +5,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalalgud&layout=compact&langs_count=5&theme=dracula" height="150" alt="languages graph" />
 </div>
 
-<img align="right" height="150" src="https://in.pinterest.com/pin/958563101929370598">
+<img align="right" height="150" src="https://gallerypng.com/wp-content/uploads/2024/07/scary-troll-face-png-image.png">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
