@@ -1,8 +1,10 @@
 <h2 align="left">Hi 👋! My name is Vishal and I'm a dev from India</h2>
 
 <div align="center">
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=vishalalgud&show_icons=true&theme=dracula" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalalgud&layout=compact&langs_count=5&theme=dracula" height="150" alt="languages graph" />
+  <!-- Most Used Languages (updates automatically based on your public repos) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalalgud&layout=compact&langs_count=7&theme=dracula" height="150" alt="languages graph" />
 </div>
 
 ---
