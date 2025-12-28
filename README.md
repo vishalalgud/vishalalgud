@@ -37,7 +37,7 @@
   <a href="https://www.twitch.tv/yourprofile" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&style=for-the-badge" height="35" alt="twitch logo" />
   </a>
-  <a href="https://discord.gg/yourserver" target="_blank">
+  <a href="https://discord.gg/v92Mn6mz" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="discord logo" />
   </a>
   <a href="mailto:your.email@gmail.com" target="_blank">
